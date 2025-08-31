@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Usb_C_5077CR-16SMC2-BK-TR")(type "KiCad")(uri "C:/Users/syoze/Desktop/KiCadPro/axis60/symbols/Usb_C_5077CR-16SMC2-BK-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "C:/Users/syoze/Desktop/KiCadPro/axis60/symbols/kbd.kicad_sym")(options "")(descr ""))
+)
