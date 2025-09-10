@@ -138,9 +138,9 @@
 		(at -3.81 0)
 		(size 1.397 1.397)
 		(drill 0.8128)
-		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "a3c30b83-dc2e-434f-9c9c-5b35246636d7")
+		(uuid "4dc86440-9a9f-44be-aea9-63fa2dd693fa")
 	)
 	(pad "1" smd rect
 		(at -1.775 0)
@@ -158,20 +158,32 @@
 		(at 3.81 0)
 		(size 1.397 1.397)
 		(drill 0.8128)
-		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "1aac9cb2-55ef-4f6b-98fa-d36f3a32bda7")
+		(uuid "1d617053-29d9-4ea2-a541-10910607d7d4")
 	)
 	(embedded_fonts no)
-	(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123F.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0 -1.6)
 		)
 		(scale
-			(xyz 0.22 0.15 0.15)
+			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 180)
+			(xyz -0 -180 -180)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+		(hide yes)
+		(offset
+			(xyz -4 0 -1.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -180 -0 -0)
 		)
 	)
 )

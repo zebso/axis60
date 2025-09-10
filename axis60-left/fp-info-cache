@@ -1,4 +1,4 @@
-26452568482818323
+26452587311479746
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105606,63 +105606,63 @@ CherryMX_Hotswap_via_1.5U
 
 
 0
-12
+2
 2
 keyswitch
 CherryMX_Hotswap_via_1.25U
 
 
 0
-12
+2
 2
 keyswitch
 CherryMX_Hotswap_via_1.75U
 
 
 0
-12
+2
 2
 keyswitch
 CherryMX_Hotswap_via_1U
 
 
 0
-12
+2
 2
 keyswitch
 CherryMX_Hotswap_via_2.5U
 
 
 0
-12
+2
 2
 keyswitch
 CherryMX_Hotswap_via_2.25U
 
 
 0
-12
+2
 2
 keyswitch
 CherryMX_Hotswap_via_2.75U
 
 
 0
-12
+2
 2
 keyswitch
 CherryMX_Hotswap_via_2U
 
 
 0
-12
+2
 2
 keyswitch
 CherryMX_Hotswap_via_3U
 
 
 0
-12
+2
 2
 logo
 logo
@@ -105693,11 +105693,11 @@ MJ-4PP-9
 4
 4
 others
-ResetSW TSHA-T-2.5B2-19SH
+ResetSW
 
 
 0
-4
+2
 2
 others
 Usb_C_NELTRON_5077CR-16SMC2-BK-TR
